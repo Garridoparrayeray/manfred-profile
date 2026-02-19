@@ -374,6 +374,10 @@
           "type": "technology"
         },
         {
+          "name": "Spring",
+          "type": "technology"
+        },
+        {
           "name": "VanillaPHP",
           "type": "technology"
         }
