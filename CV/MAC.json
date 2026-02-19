@@ -364,6 +364,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "C",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Full-stack Developer"
       ]
