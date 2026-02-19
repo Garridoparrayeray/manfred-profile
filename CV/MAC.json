@@ -368,6 +368,10 @@
         {
           "name": "C",
           "type": "technology"
+        },
+        {
+          "name": "VanillaPHP",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
