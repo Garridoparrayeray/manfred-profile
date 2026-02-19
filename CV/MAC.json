@@ -352,6 +352,10 @@
           "type": "technology"
         },
         {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
           "name": "Visual Studio Code",
           "type": "technology"
         }
