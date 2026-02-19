@@ -338,6 +338,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Docker",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Full-stack Developer"
       ]
