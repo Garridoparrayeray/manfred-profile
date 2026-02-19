@@ -348,6 +348,10 @@
           "type": "technology"
         },
         {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        },
+        {
           "name": "Visual Studio Code",
           "type": "technology"
         }
