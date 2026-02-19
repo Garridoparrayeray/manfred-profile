@@ -364,6 +364,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Full-stack Developer"
       ]
