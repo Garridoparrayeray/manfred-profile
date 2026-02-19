@@ -342,6 +342,10 @@
         {
           "name": "Docker",
           "type": "technology"
+        },
+        {
+          "name": "Visual Studio Code",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
