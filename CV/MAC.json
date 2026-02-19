@@ -1,0 +1,380 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Yeray",
+      "surnames": "Garrido Parra",
+      "title": "Desarrollador Web Full Stack | Estudiante DAW en Zornotza LHII",
+      "description": "Estudiante de DAW con enfoque en Backend y Arquitectura Web.Me diferencio por evitar el \"Low-Code\". Prefiero desarrollar temas y plugins desde cero (PHP/MySQL) para asegurar que las webs sean rapidas y seguras. Lo demostré en proyectos como Zalbi Aisia y Glocalium, donde la prioridad fue la ingeniería de datos y el rendimiento, no solo la estética.Mis bases:Ingeniería: Aprendí a programar en C y gestionar memoria en 42 Urduliz.Stack: Java, PHP 8, HTML5/CSS3 (Tailwind), Git y Linux. Proximamente Laravel, ando en su aprendizaje.Actitud: Mi pasado en seguridad y logística me enseñó disciplina y resolución de problemas bajo presión.Idiomas: Euskera (Nativo) / Castellano (Nativo) / Inglés (Capaz de comunicarme con fluidez).Busco retos técnicos reales, no solo instalar plantillas.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/19/c43886bc-f9e9-4d84-a428-022798a77ed4_linkedin_perfil_phot.jpg",
+        "alt": "linkedin_Perfil_photo.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJDyqzMeg8Tg0Rt3vBjGuw8W8)",
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Elantxobe"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/yeray-garrido"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Garridoparrayeray"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "aritz bodegoia taberna"
+        },
+        "roles": [
+          {
+            "name": "Personal de bar",
+            "startDate": "2025-11-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "aritz bodegoia taberna"
+        },
+        "roles": [
+          {
+            "name": "Personal de bar",
+            "startDate": "2025-10-01",
+            "finishDate": "2025-11-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Itxas-ondo taberna"
+        },
+        "roles": [
+          {
+            "name": "Barra",
+            "startDate": "2025-06-01",
+            "finishDate": "2025-11-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GLOCALIUM SERVICES SL"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sitio web",
+            "startDate": "2025-04-01",
+            "finishDate": "2025-06-01",
+            "challenges": [
+              {
+                "description": "Participación en el desarrollo de aplicaciones web dinámicas, con Wordpress como tecnología  Mantenimiento y mejora de funcionalidades existentes en páginas web corporativas.  Aplicación de buenas prácticas de programación, seguridad web y estándares de accesibilidad.  Trabajo en equipo con otros desarrolladores y supervisión por parte de tutores técnicos.  Administración de la página con un servidor web y de forma local como la implementación de ellas y contenidos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ON PLUS INTEGRACION SERVICIOS SL"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de seguridad",
+            "startDate": "2024-12-01",
+            "finishDate": "2026-01-01",
+            "challenges": [
+              {
+                "description": "Control de accesos de personas y vehículos, asegurando el cumplimiento de los protocolos establecidos por la empresa y el cliente.  Vigilancia preventiva de instalaciones, realizando rondas periódicas y reportando incidencias o anomalías en infraestructuras, equipamientos o comportamientos.  Atención al público y labores de información básica, ofreciendo una primera atención eficaz y canalizando correctamente consultas o solicitudes.  Supervisión del correcto funcionamiento de sistemas básicos de seguridad (como cámaras de videovigilancia, alarmas o control de llaves), notificando cualquier irregularidad al personal habilitado.  Colaboración en situaciones de emergencia o evacuación, actuando según los procedimientos establecidos y prestando apoyo al personal especializado si es necesario.  Cumplimiento estricto de la normativa en prevención de riesgos laborales y seguridad privada, garantizando un entorno seguro y profesional."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PENNY NORTE SL"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de eventos",
+            "startDate": "2023-03-01",
+            "finishDate": "2024-03-01",
+            "challenges": [
+              {
+                "description": "Montaje y desmontaje de escenarios, estructuras y equipos técnicos, asegurando la correcta instalación de tarimas, bastidores, cortinajes, elementos escenográficos, iluminación y sonido.  Carga y descarga de materiales escénicos y técnicos, tanto en almacén como en el lugar del evento, coordinando tiempos y garantizando el orden y la integridad del material.  Gestión básica de inventario y administración de material, revisando el estado de los equipos, organizando su almacenamiento y registrando entradas/salidas.  Colaboración con el equipo técnico y artístico, siguiendo las indicaciones de responsables de producción o dirección técnica, con especial atención a la seguridad y los tiempos de montaje.  Cumplimiento de protocolos de prevención de riesgos laborales, aplicando medidas adecuadas para la manipulación segura de materiales pesados y estructuras."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Asociación Educativa RECICLANET Hezkuntza Elkartea"
+        },
+        "roles": [
+          {
+            "name": "Programador web",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Mantenimiento y actualización de la página web de la organización, asegurando la correcta visualización del contenido y la estructura.  Publicación de productos y artículos relacionados con tecnología y sostenibilidad.  Revisión y edición de imágenes y descripciones de productos para mejorar la presentación online.  Apoyo en la mejora del posicionamiento web (SEO básico) y organización del catálogo digital.  Uso de herramientas de gestión de contenidos (CMS) y conocimientos básicos de HTML/CSS.  Colaboración con el equipo técnico y de comunicación para mantener actualizada la información y apoyar la visibilidad online del proyecto."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "zalbi"
+        },
+        "roles": [
+          {
+            "name": "Monitor de tiempo libre",
+            "startDate": "2022-02-01",
+            "finishDate": "2024-09-01",
+            "challenges": [
+              {
+                "description": "Montaje, desmontaje y supervisión de hinchables en eventos y fiestas infantiles.  Atención y cuidado básico de los niños durante el uso de los juegos, garantizando su seguridad y bienestar.   Explicación de normas de uso y control de turnos y aforo.  Apoyo logístico y trato cordial con padres y organizadores.  Cumplimiento de normas básicas de prevención de riesgos y cuidado del material."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EU",
+        "fullName": "Euskera",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaFX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "42",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "42"
+        },
+        "finishDate": "2023-10-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Certificado de profesionalidad de nivel 3 - DESARROLLO DE APLICACIONES CON TECNOLOGÍAS WEB",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Fundación EDE"
+        },
+        "finishDate": "2022-04-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Desarrollo de aplicaciones web",
+        "startDate": "2024-01-01",
+        "institution": {
+          "name": "Zornotza FP"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/yeray-garrido",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Garridoparrayeray",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Copywriter",
+        "Full-stack Developer",
+        "SEO Marketing"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "JavaFX",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "WordPress",
+        "type": "technology"
+      }
+    ],
+    "goodPractices": "Para mí, el desarrollo de software no consiste en ensamblar piezas prefabricadas, sino en aplicar ingeniería real. Mi principal buena práctica es evitar el \"low-code\" y los constructores visuales, desarrollando soluciones nativas y a medida para no generar deuda técnica desde el minuto cero.\n\nEn mi flujo de trabajo diario aplico:\n\nArquitectura Limpia y a Medida: Desarrollo desde cero estructurando bien los datos (usando Custom Post Types, bases de datos relacionales y el ecosistema TALL Stack, en el que me estoy especializando) para separar la lógica de negocio de la presentación visual.\n\nPerformance (WPO) y SEO por Diseño: No optimizo al final, programo pensando en el rendimiento. Escribo código eficiente y optimizo la carga de recursos para garantizar tiempos de respuesta en Core Web Vitals inferiores a 1.5 segundos, integrando además bases sólidas de SEO técnico para asegurar un posicionamiento óptimo.\n\nSeguridad y Soberanía de Datos: Aplico saneamiento estricto de datos en backend (como en los plugins que desarrollo en PHP/MySQL), realizo auditorías de seguridad y garantizo que los sistemas sean robustos y privados.\n\nControl de Versiones Sistemático: Uso intensivo de Git/GitHub para la trazabilidad del código, gestión de ramas y mantenimiento de la paridad entre los entornos de desarrollo local y producción.\n\nLa disciplina técnica que adquirí programando en C en la piscina de 42 Urduliz me enseñó que la eficiencia algorítmica y la gestión de memoria importan. Hoy, combino esa base con los patrones de diseño y buenas prácticas que aplico en mi formación actual (POO y arquitectura MVC). Por eso, mi objetivo siempre es entregar código sólido, escalable y mantenible a largo plazo."
+  }
+}
