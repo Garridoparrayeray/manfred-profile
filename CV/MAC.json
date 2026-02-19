@@ -344,6 +344,10 @@
           "type": "technology"
         },
         {
+          "name": "Gemini AI",
+          "type": "technology"
+        },
+        {
           "name": "Visual Studio Code",
           "type": "technology"
         }
