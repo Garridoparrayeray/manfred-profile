@@ -366,10 +366,6 @@
       ],
       "discardedCompetences": [
         {
-          "name": "Android SDK",
-          "type": "technology"
-        },
-        {
           "name": "C",
           "type": "technology"
         },
