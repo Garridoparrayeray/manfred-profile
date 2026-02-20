@@ -377,6 +377,12 @@
       ],
       "contactMails": [
         "garridoparrayeraytx@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "622945185",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
