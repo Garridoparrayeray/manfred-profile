@@ -238,6 +238,37 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Zalbi Aisia — Plataforma WordPress a Medida (Freelance)",
+          "description": "Desarrollo integral de una plataforma web corporativa y catálogo interactivo de productos para una empresa de atracciones hinchables y eventos. El requisito principal: un sistema que el cliente pudiera gestionar de forma autónoma, sin constructores visuales, sin plantillas comerciales y sin dependencia de terceros. Página totalmente responsiva.\nEl tema fue construido completamente desde cero sobre Underscores (_s) como base técnica limpia. La arquitectura de datos se apoya en Custom Post Types (Hinchables, Eventos) y taxonomías personalizadas registradas programáticamente en functions.php, generando un panel de administración propio y separado del blog nativo de WordPress.\nEl catálogo incorpora un sistema de filtrado en tiempo real desarrollado en JavaScript Vanilla — sin recargas de página, sin dependencia de jQuery — con transiciones CSS sobre opacidad en lugar de display para evitar layout thrashing. Las tarjetas se maquetan con CSS Grid para mantener alturas uniformes independientemente de la longitud del contenido. La diferenciación por categoría se resuelve mediante lógica condicional en PHP/CSS que aplica una paleta cromática distinta por tipo (Acuáticos → Azul, Eventos → Verde, Deportivos → Naranja).\nLos datos dinámicos se gestionan vía ACF con una capa de traducción PHP propia que convierte los códigos de campo internos en etiquetas legibles para el frontend. La configuración global (botón WhatsApp, datos de contacto) se expone a través de la WordPress Customizer API, manteniendo los ajustes de negocio fuera de los archivos del tema.\nEl proyecto se espera la entrega en 40 horas trazadas a lo largo de 12 jornadas de desarrollo, completamente documentadas en commits de Git. Incluye configuración multiidioma con Polylang (Euskera/Castellano), optimización de Core Web Vitals con carga inferior a 1.5s, migración de servidor, copias de seguridad automatizadas, auditoría de seguridad y manual de uso para la autogestión del cliente.\nStack: PHP 8, WordPress (tema _s), Custom Post Types, ACF, Polylang, JS Vanilla, CSS Grid, Figma, Git. En cuanto se disponga la entrega adjudicare el link.\nRepo: github.com/Garridoparrayeray/zalbi-web-server",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/26/3d181f7b-7bd4-4ed3-944d-ef496e0c647c_zalbi_captura.png",
+            "alt": "zalbi_captura.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-01-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -514,6 +545,9 @@
     "projects": [
       {
         "name": "Portfolio"
+      },
+      {
+        "name": "Zalbi Aisia — Plataforma WordPress a Medida (Freelance)"
       }
     ]
   }
