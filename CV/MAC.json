@@ -197,6 +197,48 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Portfolio",
+          "description": "yeraygarrido.dev — Portfolio SPA a medida\nPortfolio personal construido desde cero como ejercicio de ingeniería real, sin plantillas. El objetivo era demostrar qué puede construir un desarrollador junior cuando toma decisiones propias de arquitectura, optimización de rendimiento y despliegue en producción.\nDesarrollado con React 19 + Vite, descartando frameworks más pesados para llevar los Core Web Vitals a puntuaciones casi perfectas en Lighthouse tanto en móvil como en escritorio. Las animaciones se gestionan con GSAP + ScrollTrigger para secuencias basadas en timeline sin layout thrashing. La internacionalización (EN/ES/EU) está implementada mediante un React Context propio, sin librerías externas, sin parámetros en la URL ni recargas de página.\nEl sitio también expone un endpoint XML público (/api/cv.xml) consumible directamente desde terminal — porque un portfolio también puede ser developer-friendly.\nStack: React 19, Vite, Tailwind CSS v4, GSAP, TypeScript, i18n Context propio.\nWeb: yeraygarrido.dev · Repo: github.com/Garridoparrayeray/yeraygarrido.com\nLink de estadisticas: https://pagespeed.web.dev/analysis/https-www-yeraygarrido-dev/1ruoigv734?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=es-ES&utm_source=lh-chrome-ext\nUn par de notas para cuando lo subas a Manfred: en la sección de skills del proyecto marca explícitamente React, Vite, GSAP, Tailwind CSS, TypeScript y i18n — son los términos que los recruiters de agencias y consultoras filtran. Y si Manfred te deja añadir métricas, pon el score de Lighthouse directamente (100 Performance / 100 SEO) porque ese número llama la atención más que cualquier descripción.",
+          "URL": "https://www.yeraygarrido.dev/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/26/d4cb5ba9-45be-48b2-84d4-a7a47c797aee_portfolio_head.png",
+            "alt": "portfolio_head.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-02-01",
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -468,6 +510,11 @@
       }
     ],
     "desiredJobDescription": "Mi trabajo ideal es un rol como Desarrollador Backend o Full Stack donde pueda aplicar ingeniería real y resolver problemas complejos, no solo ensamblar piezas prefabricadas. Busco un entorno que valore el código a medida, el rendimiento (WPO) y las buenas prácticas, huyendo por completo de las agencias basadas en \"low-code\" o constructores visuales.\n\nMe motiva enormemente trabajar en proyectos donde pueda exprimir mi base técnica: programación orientada a objetos y de escritorio con Java (Swing/FX), desarrollo de backend robusto con PHP Vanilla, y diseño de bases de datos relacionales (SQL). A nivel web, me desenvuelvo creando soluciones desde cero utilizando HTML, CSS, JavaScript básico, jQuery y XML, además de tener experiencia demostrable desarrollando temas y plugins nativos para WordPress sin depender de terceros.\n\nComo perfil Junior, el entorno de trabajo es vital para mí. Busco un equipo con una cultura técnica fuerte, donde exista una buena mentorización. Quiero trabajar codo con codo con perfiles más Seniors de los que pueda aprender a dar el salto hacia frameworks modernos, aplicando los principios de arquitectura (MVC) y POO que ya tengo interiorizados.\n\nMi día a día ideal consistiría en programar como contribuidor individual (escribiendo código limpio, optimizando consultas a base de datos y mejorando la seguridad), mientras participo en revisiones de código y aprendo de mis compañeros en un ambiente colaborativo, transparente y sin burocracia innecesaria.",
-    "goodPractices": "Para mí, el desarrollo de software no consiste en ensamblar piezas prefabricadas, sino en aplicar ingeniería real. Mi principal buena práctica es evitar el \"low-code\" y los constructores visuales, desarrollando soluciones nativas y a medida para no generar deuda técnica desde el minuto cero.\n\nEn mi flujo de trabajo diario aplico:\n\nArquitectura Limpia y a Medida: Desarrollo desde cero estructurando bien los datos (usando Custom Post Types, bases de datos relacionales y el ecosistema TALL Stack, en el que me estoy especializando) para separar la lógica de negocio de la presentación visual.\n\nPerformance (WPO) y SEO por Diseño: No optimizo al final, programo pensando en el rendimiento. Escribo código eficiente y optimizo la carga de recursos para garantizar tiempos de respuesta en Core Web Vitals inferiores a 1.5 segundos, integrando además bases sólidas de SEO técnico para asegurar un posicionamiento óptimo.\n\nSeguridad y Soberanía de Datos: Aplico saneamiento estricto de datos en backend (como en los plugins que desarrollo en PHP/MySQL), realizo auditorías de seguridad y garantizo que los sistemas sean robustos y privados.\n\nControl de Versiones Sistemático: Uso intensivo de Git/GitHub para la trazabilidad del código, gestión de ramas y mantenimiento de la paridad entre los entornos de desarrollo local y producción.\n\nLa disciplina técnica que adquirí programando en C en la piscina de 42 Urduliz me enseñó que la eficiencia algorítmica y la gestión de memoria importan. Hoy, combino esa base con los patrones de diseño y buenas prácticas que aplico en mi formación actual (POO y arquitectura MVC). Por eso, mi objetivo siempre es entregar código sólido, escalable y mantenible a largo plazo."
+    "goodPractices": "Para mí, el desarrollo de software no consiste en ensamblar piezas prefabricadas, sino en aplicar ingeniería real. Mi principal buena práctica es evitar el \"low-code\" y los constructores visuales, desarrollando soluciones nativas y a medida para no generar deuda técnica desde el minuto cero.\n\nEn mi flujo de trabajo diario aplico:\n\nArquitectura Limpia y a Medida: Desarrollo desde cero estructurando bien los datos (usando Custom Post Types, bases de datos relacionales y el ecosistema TALL Stack, en el que me estoy especializando) para separar la lógica de negocio de la presentación visual.\n\nPerformance (WPO) y SEO por Diseño: No optimizo al final, programo pensando en el rendimiento. Escribo código eficiente y optimizo la carga de recursos para garantizar tiempos de respuesta en Core Web Vitals inferiores a 1.5 segundos, integrando además bases sólidas de SEO técnico para asegurar un posicionamiento óptimo.\n\nSeguridad y Soberanía de Datos: Aplico saneamiento estricto de datos en backend (como en los plugins que desarrollo en PHP/MySQL), realizo auditorías de seguridad y garantizo que los sistemas sean robustos y privados.\n\nControl de Versiones Sistemático: Uso intensivo de Git/GitHub para la trazabilidad del código, gestión de ramas y mantenimiento de la paridad entre los entornos de desarrollo local y producción.\n\nLa disciplina técnica que adquirí programando en C en la piscina de 42 Urduliz me enseñó que la eficiencia algorítmica y la gestión de memoria importan. Hoy, combino esa base con los patrones de diseño y buenas prácticas que aplico en mi formación actual (POO y arquitectura MVC). Por eso, mi objetivo siempre es entregar código sólido, escalable y mantenible a largo plazo.",
+    "projects": [
+      {
+        "name": "Portfolio"
+      }
+    ]
   }
 }
