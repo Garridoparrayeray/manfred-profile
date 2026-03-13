@@ -433,6 +433,35 @@
         "finishDate": "2023-10-01"
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Certificado de iniciacion al desarrollo con IA",
+        "startDate": "2026-02-01",
+        "institution": {
+          "name": "BIG School",
+          "description": "Garantiza que:\n\nUsas la IA con criterio e integrada en tu flujo para ir más rápido sin perder control ni seguridad.\n\nSabes cómo arrancar un proyecto con método (no a base de prueba/error) y mantener coherencia en el código y en las decisiones.\n\nControlas, validas y garantizas la seguridad de tu código antes de subirlo a producción.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/03/13/bdb21730-8340-46cd-807a-8f8f0ec8a73f_ia.png",
+            "alt": "ia.png"
+          }
+        },
+        "finishDate": "2026-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          },
+          {
+            "name": "Cloud Code",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Certificado de profesionalidad de nivel 3 - DESARROLLO DE APLICACIONES CON TECNOLOGÍAS WEB",
