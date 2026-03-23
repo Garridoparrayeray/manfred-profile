@@ -433,10 +433,10 @@
         "finishDate": "2023-10-01"
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Certificado de iniciacion al desarrollo con IA",
-        "startDate": "2026-02-01",
+        "startDate": "2026-03-01",
         "institution": {
           "name": "BIG School",
           "description": "Garantiza que:\n\nUsas la IA con criterio e integrada en tu flujo para ir más rápido sin perder control ni seguridad.\n\nSabes cómo arrancar un proyecto con método (no a base de prueba/error) y mantener coherencia en el código y en las decisiones.\n\nControlas, validas y garantizas la seguridad de tu código antes de subirlo a producción.",
