@@ -177,23 +177,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "zalbi"
-        },
-        "roles": [
-          {
-            "name": "Monitor de tiempo libre",
-            "startDate": "2022-02-01",
-            "finishDate": "2024-09-01",
-            "challenges": [
-              {
-                "description": "Montaje, desmontaje y supervisión de hinchables en eventos y fiestas infantiles.  Atención y cuidado básico de los niños durante el uso de los juegos, garantizando su seguridad y bienestar.   Explicación de normas de uso y control de turnos y aforo.  Apoyo logístico y trato cordial con padres y organizadores.  Cumplimiento de normas básicas de prevención de riesgos y cuidado del material."
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
